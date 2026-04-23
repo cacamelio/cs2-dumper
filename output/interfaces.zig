@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-23 01:08:18.277114700 UTC
+// 2026-04-23 20:08:13.145916800 UTC
 
 pub const cs2_dumper = struct {
     pub const interfaces = struct {
@@ -215,10 +215,6 @@ pub const cs2_dumper = struct {
         // Module: v8system.dll
         pub const v8system_dll = struct {
             pub const Source2V8System001: usize = 0x31730;
-        };
-        // Module: vconcomm.dll
-        pub const vconcomm_dll = struct {
-            pub const VConComm001: usize = 0x395C0;
         };
         // Module: vphysics2.dll
         pub const vphysics2_dll = struct {
